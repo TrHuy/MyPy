@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Begin.iml" filepath="$PROJECT_DIR$/.idea/Begin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PasswordLocker/.idea/PasswordLocker.iml" filepath="$PROJECT_DIR$/../PasswordLocker/.idea/PasswordLocker.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Primeronpy/.idea/Primeronpy.iml" filepath="$PROJECT_DIR$/../Primeronpy/.idea/Primeronpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyGame/.idea/PyGame.iml" filepath="$PROJECT_DIR$/../PyGame/.idea/PyGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PyQt5/.idea/PyQt5.iml" filepath="$PROJECT_DIR$/../PyQt5/.idea/PyQt5.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Tkinter/.idea/Tkinter.iml" filepath="$PROJECT_DIR$/../Tkinter/.idea/Tkinter.iml" />
       <module fileurl="file://$PROJECT_DIR$/../thingpy/.idea/thingpy.iml" filepath="$PROJECT_DIR$/../thingpy/.idea/thingpy.iml" />

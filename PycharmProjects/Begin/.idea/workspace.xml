@@ -8,11 +8,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Begin$sound.coverage" NAME="sound Coverage Results" MODIFIED="1537113374043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyGame/PyGameDemo" />
+    <SUITE FILE_PATH="coverage/Begin$fonttext.coverage" NAME="fonttext Coverage Results" MODIFIED="1537112816510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyGame/PyGameDemo" />
+    <SUITE FILE_PATH="coverage/Begin$memorypuzzle.coverage" NAME="memorypuzzle Coverage Results" MODIFIED="1537159365831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyGame/PyGameDemo" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="138" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1395199671">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -20,46 +28,54 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
-          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
           <entry key="png" value="1" />
-          <entry key="py" value="115" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="BuildoutCfg" value="1" />
           <entry key="Image" value="1" />
-          <entry key="Python" value="115" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1" />
-          <entry key="py" value="25596" />
+          <entry key="py" value="33981" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="25597" />
+          <entry key="Python" value="33982" />
         </counts>
       </usages-collector>
     </session>
@@ -67,125 +83,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/FirstPro.py">
+        <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/Begin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="400">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1536588543427" expanded="true" signature="3063:3069" ph="..." />
-                <marker date="1536588543427" expanded="true" signature="3088:3190" ph="..." />
-                <marker date="1536588543427" expanded="true" signature="3209:3648" ph="..." />
-                <marker date="1536588543427" expanded="true" signature="3460:3648" ph="..." />
-                <marker date="1536588543427" expanded="true" signature="3807:3944" ph="..." />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/drawingtext.py">
+        <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/jetgame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="176">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/fonttext.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/drawingpoint.py">
+        <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/sound.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="112">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/colours.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/pens.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/brushes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/bwziercurve.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/customwidget.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
-              <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#115#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/tetris.py">
+        <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/memorypuzzle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="285">
+              <caret line="140" column="55" lean-forward="true" selection-start-line="140" selection-start-column="55" selection-end-line="140" selection-end-column="55" />
               <folding>
-                <element signature="e#0#77#0" expanded="true" />
+                <element signature="e#139#163#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PyQt5/referdrawing.py">
+        <entry file="file://$PROJECT_DIR$/../PyQt5/PyApp/notepad.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="1152">
+              <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/paint/paint.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1344">
+              <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/mediaplayer/mediaplayer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="848">
+              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/mediaplayer/colortab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,40 +203,26 @@
       <find>QtGui</find>
       <find>QtGui.</find>
       <find>choose_pen</find>
+      <find>filepath</find>
+      <find>QToolBar</find>
+      <find>, **kwargs</find>
+      <find>file_print</find>
+      <find>textEdit</find>
+      <find>images</find>
+      <find>imagesapp</find>
+      <find>getBoxAtPixel</find>
     </findStrings>
     <replaceStrings>
       <replace>YouDraw</replace>
       <replace>choice_pen</replace>
+      <replace>editor</replace>
+      <replace>imagesapp</replace>
+      <replace>images_app</replace>
     </replaceStrings>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../PyQt5/togglebutton.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Primeronpy/Test.py" />
-        <option value="$PROJECT_DIR$/../Primeronpy/decorators.py" />
-        <option value="$PROJECT_DIR$/../Primeronpy/say_hi.py" />
-        <option value="$PROJECT_DIR$/../thingpy/class.py" />
-        <option value="$PROJECT_DIR$/../thingpy/oopdemo.py" />
-        <option value="$PROJECT_DIR$/../thingpy/Sinhvien.py" />
-        <option value="$PROJECT_DIR$/../Primeronpy/rjust_ljust_center.py" />
-        <option value="$PROJECT_DIR$/../Primeronpy/is_method.py" />
-        <option value="$PROJECT_DIR$/../Primeronpy/delspace.py" />
-        <option value="$PROJECT_DIR$/../PasswordLocker/pw.py" />
-        <option value="$PROJECT_DIR$/../Tkinter/first_window.py" />
-        <option value="$PROJECT_DIR$/../Tkinter/window_sidebyside.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/DateTime.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/center.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/tooltip.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/Menu_toolbars.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/calculator.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/review.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/sigslot.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/escape.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/eventobject.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/eventsource.py" />
         <option value="$PROJECT_DIR$/../PyQt5/customsignal.py" />
         <option value="$PROJECT_DIR$/../PyQt5/inputdialog.py" />
         <option value="$PROJECT_DIR$/../PyQt5/filedialog.py" />
@@ -263,19 +245,47 @@
         <option value="$PROJECT_DIR$/../PyQt5/drawingpoint.py" />
         <option value="$PROJECT_DIR$/../PyQt5/bwziercurve.py" />
         <option value="$PROJECT_DIR$/../PyQt5/referdrawing.py" />
-        <option value="$PROJECT_DIR$/../PyQt5/FirstPro.py" />
         <option value="$PROJECT_DIR$/../PyQt5/drawingtext.py" />
         <option value="$PROJECT_DIR$/../PyQt5/colours.py" />
         <option value="$PROJECT_DIR$/../PyQt5/pens.py" />
         <option value="$PROJECT_DIR$/../PyQt5/brushes.py" />
         <option value="$PROJECT_DIR$/../PyQt5/customwidget.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/center.py" />
         <option value="$PROJECT_DIR$/../PyQt5/tetris.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/FirstPro.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/save_refer.py" />
+        <option value="$USER_HOME$/OneDrive/Documents/GitHub/Awesome-Notepad/notepad.py" />
+        <option value="$USER_HOME$/OneDrive/Documents/GitHub/Awesome-Notepad/app.py" />
+        <option value="$USER_HOME$/Desktop/setup.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/MindDraw.py" />
+        <option value="$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/notepad/notepad.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/PyApp/FileTest.py" />
+        <option value="$PROJECT_DIR$/../Primeronpy/decorators.py" />
+        <option value="$PROJECT_DIR$/../Primeronpy/say_hi.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/PyApp/notepad.py" />
+        <option value="$USER_HOME$/Desktop/MindDraw.py" />
+        <option value="$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/paint/paint.py" />
+        <option value="$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/mediaplayer/colortab.py" />
+        <option value="$PROJECT_DIR$/../PyQt5/PyApp/MindDraw.py" />
+        <option value="$PROJECT_DIR$/../PyGame/PyGameDemo/Hello.py" />
+        <option value="$PROJECT_DIR$/../PyGame/PyGameDemo/jetgame.py" />
+        <option value="$PROJECT_DIR$/../PyGame/PyGameDemo/Begin.py" />
+        <option value="$PROJECT_DIR$/../PyGame/PyGameDemo/fonttext.py" />
+        <option value="$PROJECT_DIR$/../PyGame/soung.py" />
+        <option value="$PROJECT_DIR$/../PyGame/PyGameDemo/sound.py" />
+        <option value="$PROJECT_DIR$/../PyGame/PyGameDemo/memorypuzzle.py" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="670" />
-    <option name="width" value="701" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -300,21 +310,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Begin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
+              <item name="PyGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Begin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyGame" type="462c0819:PsiDirectoryNode" />
+              <item name="PyGameDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyQt5/calculator.py" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -331,7 +347,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tetris">
+  <component name="RunManager" selected="Python.memorypuzzle">
+    <configuration name="Begin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyGame/PyGameDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyGame/PyGameDemo/Begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyGame/PyGameDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyGame/PyGameDemo/Hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python">
       <module name="Begin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -344,7 +404,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begin/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MindDraw (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyQt5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt5/PyApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt5/PyApp/MindDraw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,6 +448,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begin/ModulePackage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -374,19 +458,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="brushes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQt5" />
+    <configuration name="fonttext" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyGame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyGame/PyGameDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt5/brushes.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyGame/PyGameDemo/fonttext.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,19 +480,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bwziercurve" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQt5" />
+    <configuration name="memorypuzzle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyGame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyGame/PyGameDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt5/bwziercurve.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyGame/PyGameDemo/memorypuzzle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,61 +502,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="customwidget" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQt5" />
+    <configuration name="sound" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyGame" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyGame/PyGameDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt5/customwidget.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pens" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQt5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt5/pens.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tetris" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQt5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyQt5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyQt5/tetris.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyGame/PyGameDemo/sound.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -480,21 +525,22 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.MindDraw (1)" />
       <item itemvalue="Python.HelloWorld" />
       <item itemvalue="Python.ModulePackage" />
-      <item itemvalue="Python.pens" />
-      <item itemvalue="Python.brushes" />
-      <item itemvalue="Python.bwziercurve" />
-      <item itemvalue="Python.customwidget" />
-      <item itemvalue="Python.tetris" />
+      <item itemvalue="Python.Begin" />
+      <item itemvalue="Python.Hello" />
+      <item itemvalue="Python.fonttext" />
+      <item itemvalue="Python.sound" />
+      <item itemvalue="Python.memorypuzzle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tetris" />
-        <item itemvalue="Python.customwidget" />
-        <item itemvalue="Python.bwziercurve" />
-        <item itemvalue="Python.brushes" />
-        <item itemvalue="Python.pens" />
+        <item itemvalue="Python.memorypuzzle" />
+        <item itemvalue="Python.sound" />
+        <item itemvalue="Python.fonttext" />
+        <item itemvalue="Python.Hello" />
+        <item itemvalue="Python.Begin" />
       </list>
     </recent_temporary>
   </component>
@@ -512,34 +558,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="670" y="0" width="701" height="735" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32846716" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2246696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.28688523" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.57434404" weight="0.2596154" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4941691" weight="0.31730768" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4941691" weight="0.31570512" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.425656" side_tool="true" weight="0.29166666" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.87628114" weight="0.3191153" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.87628114" weight="0.31753555" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32852563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32892805" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32892805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22474378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.28688523" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.57434404" visible="true" weight="0.2596154" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.57434404" visible="true" weight="0.25592417" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4941691" weight="0.31730768" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,11 +599,14 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.425656" side_tool="true" weight="0.29166666" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.87628114" weight="0.3191153" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.87628114" weight="0.31753555" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -568,397 +623,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Primeronpy/delspace.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PasswordLocker/pw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tkinter/first_window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begin/ModulePackage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tkinter/window_sidebyside.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Primeronpy/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Primeronpy/say_hi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/materials/primer-on-python-decorators/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/note.png" />
-    <entry file="file://$PROJECT_DIR$/../PyQt5/tooltip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/eventsource.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/sigslot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/inputdialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#87#0" expanded="true" />
-            <marker date="1536326288012" expanded="true" signature="124:129" ph="..." />
-            <marker date="1536326288012" expanded="true" signature="549:554" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/fontdialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/Menu_toolbars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-924744066/PyQt5/QtCore/QObject.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="186" column="24" lean-forward="true" selection-start-line="186" selection-start-column="24" selection-end-line="186" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-924744066/PyQt5/QtWidgets/QWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="995" column="8" selection-start-line="995" selection-start-column="8" selection-end-line="995" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/togglebutton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/progressbar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#107#0" expanded="true" />
-            <marker date="1536394552927" expanded="true" signature="689:868" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/escape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/DateTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/customsignal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1536291295099" expanded="true" signature="139:144" ph="..." />
-            <marker date="1536291295099" expanded="true" signature="197:202" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/checkbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/splitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/lineedit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/absolute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/center.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="13" column="21" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/pixmap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#76#0" expanded="true" />
-            <marker date="1536397555548" expanded="true" signature="144:145" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/calender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/colordiallog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/eventobject.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/slider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#66#0" expanded="true" />
-            <marker date="1536398822358" expanded="true" signature="163:168" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/combobox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/dragbutton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/refer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/filedialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/dragdrop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-            <marker date="1536505059082" expanded="true" signature="113:118" ph="..." />
-            <marker date="1536505059082" expanded="true" signature="466:471" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/referdrawing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/FirstPro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1536588543427" expanded="true" signature="3063:3069" ph="..." />
-            <marker date="1536588543427" expanded="true" signature="3088:3190" ph="..." />
-            <marker date="1536588543427" expanded="true" signature="3209:3648" ph="..." />
-            <marker date="1536588543427" expanded="true" signature="3460:3648" ph="..." />
-            <marker date="1536588543427" expanded="true" signature="3807:3944" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/drawingpoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/drawingtext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/colours.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt5/slider.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/combobox.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/dragbutton.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/refer.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/filedialog.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/dragdrop.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1750861402/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -966,52 +636,242 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/pens.py">
+    <entry file="file://$PROJECT_DIR$/../PyQt5/drawingtext.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/colours.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/pens.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/brushes.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/referdrawing.py" />
+    <entry file="file://$PROJECT_DIR$/../thingpy/funturtle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="96">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../thingpy/spiderleg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt5/FirstPro.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/save_refer.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/drawingpoint.py" />
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/Awesome-Notepad/res.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/Awesome-Notepad/notepad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt5/bwziercurve.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/customwidget.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/center.py" />
+    <entry file="file://$PROJECT_DIR$/../PyQt5/tetris.py" />
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/Awesome-Notepad/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/Awesome-Notepad/about.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt5/MindDraw.py" />
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/notepad/notepad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Primeronpy/delspace.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Primeronpy/say_hi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Primeronpy/rjust_ljust_center.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Primeronpy/is_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Primeronpy/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/MindDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="217" column="25" selection-start-line="217" selection-start-column="25" selection-end-line="217" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pygame/examples/aliens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="217" column="8" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt5/PyApp/FileTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyQt5/PyApp/MindDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/pygame-primer/py_tut_with_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="101" column="23" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyGame/venv/Lib/site-packages/pygame/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/Hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyGame/soung.py" />
+    <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/Begin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/brushes.py">
+    <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/jetgame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="176">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/fonttext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/bwziercurve.py">
+    <entry file="file://$PROJECT_DIR$/../PyQt5/PyApp/notepad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="1152">
+          <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/customwidget.py">
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/paint/paint.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        <state relative-caret-position="1344">
+          <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
           <folding>
-            <element signature="e#0#115#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PyQt5/tetris.py">
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/mediaplayer/mediaplayer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="848">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
           <folding>
-            <element signature="e#0#77#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/Documents/GitHub/15-minute-apps/mediaplayer/colortab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/sound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyGame/PyGameDemo/memorypuzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="140" column="55" lean-forward="true" selection-start-line="140" selection-start-column="55" selection-end-line="140" selection-end-column="55" />
+          <folding>
+            <element signature="e#139#163#0" expanded="true" />
           </folding>
         </state>
       </provider>

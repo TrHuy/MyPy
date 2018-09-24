@@ -11,6 +11,7 @@
     <orderEntry type="module" module-name="PasswordLocker" />
     <orderEntry type="module" module-name="Tkinter" />
     <orderEntry type="module" module-name="PyQt5" />
+    <orderEntry type="module" module-name="PyGame" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

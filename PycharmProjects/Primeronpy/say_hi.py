@@ -3,19 +3,18 @@ import time
 
 
 def do_twice(func):
-    @functools.wraps(func)
-    def wrapper_do_twice(*args, **kwargs):
-        func(*args, **kwargs)
-        return func(*args, **kwargs)
+    def wrapper_do_twice(*args):
+        func(*args)
+        return func(*args)
 
     return wrapper_do_twice
 
 
 def timer(func):
     @functools.wraps(func)
-    def wrapper_timer(*args, **kwargs):
+    def wrapper_timer(*args):
         start_time = time.perf_counter()
-        value = func(*args, **kwargs)
+        value = func(*args)
         end_time = time.perf_counter()
         run_time = end_time - start_time
         print(f"Finished {func.__name__!r} in {run_time:.4f} secs")
@@ -31,7 +30,7 @@ def waste_some_time(num_times):
 
 @do_twice
 def say_hi():
-    print("hello")
+    print("Whee!")
 
 
 @do_twice
